@@ -9,4 +9,4 @@ Tip calculation app developed with Svelte. <br />
 
 ## Author
 
-- **Marcos Alves** @ [Github](marcosalves.herokuapp.com)
+- **Marcos Alves** @ [Github](marcosalves.io)
